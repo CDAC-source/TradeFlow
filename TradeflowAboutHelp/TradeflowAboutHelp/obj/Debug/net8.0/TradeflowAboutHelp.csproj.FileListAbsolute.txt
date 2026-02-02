@@ -1,0 +1,68 @@
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\appsettings.json
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.exe
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.deps.json
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.runtimeconfig.json
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.dll
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.pdb
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.AssemblyInfo.cs
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets\msbuild.TradeflowAboutHelp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets\msbuild.build.TradeflowAboutHelp.props
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TradeflowAboutHelp.props
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TradeflowAboutHelp.props
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\scopedcss\bundle\TradeflowAboutHelp.styles.css
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.csproj.CopyComplete
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.dll
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\refint\TradeflowAboutHelp.dll
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.pdb
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.genruntimeconfig.cache
+C:\Users\Owner\source\repos\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\ref\TradeflowAboutHelp.dll
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\appsettings.Development.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\appsettings.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.staticwebassets.endpoints.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.exe
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.deps.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.runtimeconfig.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.dll
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\TradeflowAboutHelp.pdb
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.csproj.AssemblyReference.cache
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.AssemblyInfoInputs.cache
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.AssemblyInfo.cs
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.csproj.CoreCompileInputs.cache
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\scopedcss\bundle\TradeflowAboutHelp.styles.css
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets.build.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets.development.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\swae.build.ex.cache
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\Tradeflo.14BE1574.Up2Date
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.dll
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\refint\TradeflowAboutHelp.dll
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.pdb
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\TradeflowAboutHelp.genruntimeconfig.cache
+D:\CDAC Project\Final\TradeflowAboutHelp\TradeflowAboutHelp\obj\Debug\net8.0\ref\TradeflowAboutHelp.dll
