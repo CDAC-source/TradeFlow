@@ -1,0 +1,81 @@
+.notification-wrapper {
+  position: relative;
+}
+
+.bell {
+  font-size: 22px;
+  cursor: pointer;
+  position: relative;
+}
+
+.badge {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  background: red;
+  color: white;
+  font-size: 11px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+
+.notification-dropdown {
+  position: absolute;
+  right: 0;
+  top: 30px;
+  width: 300px;
+  background: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  border-radius: 6px;
+  z-index: 1000;
+}
+
+.notification-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+.notification {
+  padding: 8px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.notification.success { background: #e8f7ee; }
+.notification.warning { background: #fff4e5; }
+.notification.error { background: #fdecea; }
+
+.notification small {
+  color: #666;
+}
+
+.empty {
+  padding: 10px;
+  text-align: center;
+  color: #777;
+}
+
+.notif-wrapper {
+  position: relative;
+  cursor: pointer;
+  margin-right: 16px;
+}
+
+.notif-icon {
+  font-size: 18px;
+  color: #f59e0b; /* matches your yellow tone */
+}
+
+.notif-badge {
+  position: absolute;
+  top: -6px;
+  right: -8px;
+  background: #ef4444;
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 999px;
+}

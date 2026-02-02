@@ -1,0 +1,24 @@
+.table {
+  background: #fff;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.table thead {
+  background: #1e40af;
+  color: white;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.table tbody tr:hover {
+  background: #f1f5ff;
+}
+
+.table-actions .btn {
+  padding: 5px 10px;
+  border-radius: 8px;
+}
