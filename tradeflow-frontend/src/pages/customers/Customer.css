@@ -1,0 +1,77 @@
+.page-container {
+  padding: 100px 40px 40px;
+}
+
+.page-title {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+/* =========================
+   CUSTOMER PAGE
+========================= */
+.customer-page {
+  min-height: calc(100vh - 70px);
+  background: #f6f8fc;
+  padding: 90px 40px;
+}
+
+.customer-card {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* =========================
+   HEADER
+========================= */
+.customer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* =========================
+   TOOLBAR
+========================= */
+.customer-toolbar {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.customer-toolbar input {
+  flex: 1;
+  min-width: 260px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid #d1d5db;
+}
+
+.customer-toolbar select {
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid #d1d5db;
+  font-weight: 600;
+}
+
+/* =========================
+   TABLE
+========================= */
+.customer-table th {
+  background: #1f2933;
+  color: #ffffff;
+  padding: 14px;
+}
+
+.customer-table td {
+  padding: 14px;
+  vertical-align: middle;
+}
+
+.customer-table tbody tr:hover {
+  background: #eef2ff;
+}

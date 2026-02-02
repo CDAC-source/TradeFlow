@@ -1,0 +1,113 @@
+/* ==============================
+   PAGE CONTAINER
+============================== */
+.sr-container {
+  min-height: calc(100vh - 70px);
+  background: #f6f8fc;
+  padding: 90px 40px 40px;
+}
+
+/* ==============================
+   CARD
+============================== */
+.sr-card {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.08);
+}
+
+/* ==============================
+   HEADER
+============================== */
+.sr-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.sr-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #dc2626;
+}
+
+/* ==============================
+   TABLE
+============================== */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table thead {
+  background: #1f2933;
+}
+
+.table th {
+  color: #ffffff;
+  font-weight: 600;
+  padding: 14px;
+}
+
+.table td {
+  padding: 14px;
+  color: #111827;
+}
+
+/* ==============================
+   STATUS BADGES (SCOPED & BULLETPROOF)
+============================== */
+.sr-badge {
+  display: inline-block;
+  min-width: 90px;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+/* Pending */
+.sr-badge-pending {
+  background-color: #ffc107;
+  color: #000000 !important;
+}
+
+/* In Progress */
+.sr-badge-progress {
+  background-color: #0d6efd;
+  color: #ffffff !important;
+}
+
+/* Closed */
+.sr-badge-closed {
+  background-color: #198754;
+  color: #ffffff !important;
+}
+
+/* ==============================
+   ACTION BUTTONS
+============================== */
+.btn-sm {
+  border-radius: 10px;
+  padding: 4px 12px;
+  font-weight: 600;
+}
+
+.btn-warning {
+  background-color: #facc15;
+  border: none;
+  color: #000;
+}
+
+.btn-danger {
+  background-color: #dc2626;
+  border: none;
+  color: #fff;
+}

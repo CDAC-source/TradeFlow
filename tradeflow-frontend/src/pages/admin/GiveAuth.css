@@ -1,0 +1,63 @@
+.ga-container {
+  min-height: 100vh;
+  padding: 100px 40px;
+  background: #f6f8fc;
+}
+
+.ga-card {
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+}
+
+.ga-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #dc2626;
+  margin-bottom: 20px;
+}
+
+.ga-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.ga-table th {
+  background: #1f2933;
+  color: white;
+  padding: 12px;
+}
+
+.ga-table td {
+  padding: 12px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.btn-admin {
+  background: #16a34a;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-user {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.self-admin {
+  font-weight: 700;
+  color: #6b7280;
+  font-size: 0.85rem;
+}
