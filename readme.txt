@@ -1,5 +1,5 @@
 TRADEFLOW – INSTALLATION REQUIREMENTS
-====================================
+=====================================
 
 FRONTEND SETUP
 --------------
@@ -61,3 +61,5 @@ TOOLS REQUIRED
 - IntelliJ IDEA / Eclipse (for Java backend)
 - MySQL Workbench (optional)
 - Postman (for API testing)
+
+Maintained by Tanishq Kulkarni
