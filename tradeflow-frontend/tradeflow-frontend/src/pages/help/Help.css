@@ -1,0 +1,36 @@
+.help-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 120px 40px 40px; 
+}
+
+.help-title {
+  color: #2563eb;
+  margin-bottom: 5px;
+}
+
+.help-subtitle {
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.faq-item {
+  background: white;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  padding: 16px 20px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  cursor: pointer;
+}
+
+.faq-question {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.faq-answer {
+  margin-top: 10px;
+  color: #555;
+  line-height: 1.5;
+}

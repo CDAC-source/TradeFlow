@@ -1,0 +1,57 @@
+.about-container {
+  padding: 120px 40px 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.about-card {
+  background: white;
+  max-width: 800px;
+  width: 100%;
+  padding: 30px;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.about-title {
+  color: #2563eb;
+  margin-bottom: 10px;
+}
+
+.about-desc {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 25px;
+}
+
+.about-section {
+  margin-bottom: 20px;
+}
+
+.about-section ul {
+  padding-left: 20px;
+}
+
+.tech-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tech-badge {
+  background: #e0ecff;
+  color: #1e40af;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.about-footer {
+  margin-top: 25px;
+  color: #444;
+}
+
+.about-loading {
+  padding: 40px;
+  font-size: 18px;
+}
