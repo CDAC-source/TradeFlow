@@ -1,6 +1,0 @@
-@TradeflowAboutHelp_HostAddress = http://localhost:5002
-
-GET {{TradeflowAboutHelp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
