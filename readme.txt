@@ -1,63 +1,137 @@
-TRADEFLOW – INSTALLATION REQUIREMENTS
-====================================
+TRADEFLOW
+
+A modern trade workflow platform powered by Spring Boot, MySQL, and a Vite + Node.js frontend, with an optional .NET Help Service.
+
+PROJECT ARCHITECTURE
+
+Frontend (Vite + Node.js)
+│
+▼
+Spring Boot Backend
+│
+▼
+MySQL Database
+
+Optional: .NET Help API
 
 FRONTEND SETUP
---------------
-1. Install Node.js (LTS version recommended)
-   Download from: https://nodejs.org
+Requirements
 
-2. Install a package manager
-   - npm (comes with Node.js)
-   OR
-   - yarn (optional)
+• Node.js (LTS recommended) → https://nodejs.org
 
-3. Install frontend dependencies
-   Open terminal in the frontend project directory and run:
-   npm install
+• npm (comes with Node.js) or yarn
 
-4. Start the frontend application
-   npm run dev
+Installation
 
-Frontend runs on:
+Open terminal in the frontend project folder
+
+Run:
+
+npm install
+
+Run Application
+
+npm run dev
+
+Frontend runs at:
 http://localhost:5173
 
-
 BACKEND SETUP (SPRING BOOT)
---------------------------
-1. Install Java Development Kit (JDK)
-   Required version: JDK 17 or higher
+Requirements
 
-2. Install Apache Maven
-   Download from: https://maven.apache.org
+• JDK 17 or higher
+• Apache Maven → https://maven.apache.org
 
-3. Install MySQL Server
-   - Create a database for the application
-   - Update database credentials in application.properties
+• MySQL Server
 
-4. Run the backend server
-   Open terminal in the backend project directory and run:
-   mvn spring-boot:run
+Database Setup
 
-Backend runs on:
+Create database:
+
+CREATE DATABASE tradeflow;
+
+Open:
+
+src/main/resources/application.properties
+
+Update credentials:
+
+spring.datasource.url=jdbc:mysql://localhost:3306/tradeflow
+spring.datasource.username=root
+spring.datasource.password=yourpassword
+
+Run Backend Server
+
+Open terminal in backend folder and run:
+
+mvn spring-boot:run
+
+Backend runs at:
 http://localhost:8080
 
+OPTIONAL: .NET HELP SERVICE
+Requirements
 
-BACKEND SETUP (OPTIONAL – .NET HELP SERVICE)
---------------------------------------------
-1. Install .NET SDK
-   Required version: .NET 6.0 or higher
+• .NET SDK 6.0 or higher
 
-2. Run the .NET service
-   Open terminal in the .NET project directory and run:
-   dotnet run
+Run Service
 
-Help API runs on:
-https://localhost:<port>
+Open terminal in help-service folder and run:
 
+dotnet run
 
-TOOLS REQUIRED
---------------
-- Visual Studio Code (recommended)
-- IntelliJ IDEA / Eclipse (for Java backend)
-- MySQL Workbench (optional)
-- Postman (for API testing)
+Help API runs at:
+https://localhost
+:<port>
+
+RECOMMENDED TOOLS
+
+• VS Code — Code editing
+• IntelliJ IDEA / Eclipse — Java backend
+• MySQL Workbench — Database management
+• Postman — API testing
+
+API TESTING
+
+Use Postman to test endpoints:
+
+GET /api/...
+POST /api/...
+
+COMMON ISSUES & FIXES
+Port Already in Use
+
+Change port in application.properties:
+
+server.port=8081
+
+Database Connection Failed
+
+• Ensure MySQL is running
+• Verify username/password
+• Confirm database exists
+
+Node Modules Error
+
+Delete and reinstall dependencies:
+
+rm -rf node_modules
+npm install
+
+QUICK START
+
+Frontend:
+
+cd frontend
+npm install
+npm run dev
+
+Backend:
+
+cd backend
+mvn spring-boot:run
+
+CONTRIBUTING
+
+Contributions, suggestions, and improvements are welcome.
+Feel free to open issues or submit pull requests.
